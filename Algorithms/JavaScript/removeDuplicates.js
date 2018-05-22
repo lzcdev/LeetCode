@@ -13,6 +13,3 @@ var removeDuplicates = function(nums) {
     }
     return number + 1
 };
-
-nums = [1, 2, 2, 3]
-console.log(removeDuplicates(nums))
